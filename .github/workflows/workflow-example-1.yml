@@ -1,4 +1,4 @@
-name: Test First GH Workflow
+name: Workflow Example 1
 on: workflow_dispatch
 jobs:
   hello-world:
